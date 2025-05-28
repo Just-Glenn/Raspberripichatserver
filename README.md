@@ -19,3 +19,10 @@ source venv/bin/activate
 pip install flask flask-socketio eventlet
 --------------------------------------
 python app.py
+
+
+
+
+
+
+then in your browser visit             http://<thepiip>:5000      IMPORTANT NOTE "replace <thepiip>" with your Raspberry Pi ip
