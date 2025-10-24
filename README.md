@@ -2,7 +2,7 @@
 a web server chat space running on a raspberry pi
 when you run this code you will be running a chat server from your raspberry pi on your network
 
-put the file on your desktop (file is provoded in repositorie)
+put the file on your desktop (file is provoded in repo)
 
 in your raspberry pi terminal run-
 
